@@ -1,4 +1,3 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created
 29th November 2021
@@ -13,5 +12,6 @@ This project makes use of python to explore data related to bike share systems f
 bikeshare_2.py
 
 ### Credits
+The data used in this project was provided by Motivate, a bikeshare system for many major cities in the United States.
 This project was part of the requirements to complete the Udacity Data Science Nanodegree program
 
