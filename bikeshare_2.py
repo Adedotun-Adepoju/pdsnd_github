@@ -19,7 +19,7 @@ def get_filters():
         (str) day - name of the day of week to filter by, or "all" to apply no day filter
     """
     name = input("Please enter your name")
-    print('Hello {name.title()}! Let\'s explore some US bikeshare data!')
+    print(f'Hello {name.title()}! Let\'s explore some US bikeshare data!')
     print('Press r to restart at anytime, Enjoy!!')
 
 
